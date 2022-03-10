@@ -1,0 +1,19 @@
+{
+  "name": "phonebook3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megd732/phonebook3.git"
+  },
+  "author": "meg davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megd732/phonebook3/issues"
+  },
+  "homepage": "https://github.com/megd732/phonebook3#readme"
+}
